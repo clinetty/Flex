@@ -1,0 +1,73 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: white;
+    font-size: 15px;
+}
+
+.box {
+    display: flex;
+    width: 50%;
+    margin: auto;
+    align-items: center;
+    justify-content: center;
+   
+
+   
+
+}
+
+main div {
+    padding: 3rem;
+
+}
+
+h2 {
+    color: hsl(0, 0%, 95%);
+    font-family: 'Big Shoulders Display', cursive;
+    font-weight: 700px;
+    margin-bottom: 20px;
+    font-size: 30px;
+}
+
+p {
+    color: hsla(0, 0%, 100%, 0.75);
+    font-family: 'Lexend Deca', sans-serif;
+    font-family: 400px;
+    margin-bottom: 60px;
+    font-size: 15px;
+
+}
+
+button {
+    border: 1px;
+    border-style: solid;
+    border-color: hsl(0, 0%, 95%);
+    border-radius: 25px;
+    padding: 10px 20px 10px 20px;
+    color: hsla(0, 0%, 100%, 0.75);
+
+
+
+}
+
+.first-card, .one {
+    background-color: hsl(31, 77%, 52%);
+}
+
+.second-card, .two {
+    background-color: hsl(184, 100%, 22%);
+}
+
+
+.third-card, .three {
+    background-color: hsl(179, 100%, 13%);
+}
+
+img {
+    margin-bottom: 20px;
+
+}
